@@ -1,0 +1,10 @@
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-Models\bin\Debug\netcoreapp3.1\Cubezoo-Models.deps.json
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-Models\bin\Debug\netcoreapp3.1\Cubezoo-Models.dll
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-Models\bin\Debug\netcoreapp3.1\Cubezoo-Models.pdb
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-Models\obj\Debug\netcoreapp3.1\Cubezoo-Models.csproj.AssemblyReference.cache
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-Models\obj\Debug\netcoreapp3.1\Cubezoo-Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-Models\obj\Debug\netcoreapp3.1\Cubezoo-Models.AssemblyInfoInputs.cache
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-Models\obj\Debug\netcoreapp3.1\Cubezoo-Models.AssemblyInfo.cs
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-Models\obj\Debug\netcoreapp3.1\Cubezoo-Models.csproj.CoreCompileInputs.cache
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-Models\obj\Debug\netcoreapp3.1\Cubezoo-Models.dll
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-Models\obj\Debug\netcoreapp3.1\Cubezoo-Models.pdb

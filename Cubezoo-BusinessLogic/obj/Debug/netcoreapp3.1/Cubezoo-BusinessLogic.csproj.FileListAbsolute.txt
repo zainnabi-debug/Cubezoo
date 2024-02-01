@@ -1,0 +1,15 @@
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-BusinessLogic\bin\Debug\netcoreapp3.1\Cubezoo-BusinessLogic.deps.json
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-BusinessLogic\bin\Debug\netcoreapp3.1\Cubezoo-BusinessLogic.dll
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-BusinessLogic\bin\Debug\netcoreapp3.1\Cubezoo-BusinessLogic.pdb
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-BusinessLogic\bin\Debug\netcoreapp3.1\Cubezoo-Interface.dll
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-BusinessLogic\bin\Debug\netcoreapp3.1\Cubezoo-Models.dll
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-BusinessLogic\bin\Debug\netcoreapp3.1\Cubezoo-Interface.pdb
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-BusinessLogic\bin\Debug\netcoreapp3.1\Cubezoo-Models.pdb
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-BusinessLogic\obj\Debug\netcoreapp3.1\Cubezoo-BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-BusinessLogic\obj\Debug\netcoreapp3.1\Cubezoo-BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-BusinessLogic\obj\Debug\netcoreapp3.1\Cubezoo-BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-BusinessLogic\obj\Debug\netcoreapp3.1\Cubezoo-BusinessLogic.AssemblyInfo.cs
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-BusinessLogic\obj\Debug\netcoreapp3.1\Cubezoo-BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-BusinessLogic\obj\Debug\netcoreapp3.1\Cubezoo-BusinessLogic.csproj.CopyComplete
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-BusinessLogic\obj\Debug\netcoreapp3.1\Cubezoo-BusinessLogic.dll
+C:\Users\zaino\source\repos\ZainNabi-CubeZoo-Assessment\Cubezoo-BusinessLogic\obj\Debug\netcoreapp3.1\Cubezoo-BusinessLogic.pdb
